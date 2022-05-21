@@ -1,3 +1,3 @@
 # vibeeee
-discord server @ dsc.gg/vibeeee
+discord server @ https://dsc.gg/vibeeee
 just server files
